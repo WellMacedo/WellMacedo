@@ -19,6 +19,10 @@ Sou estudante de Engenharia de Software e atuo como Analista de Suporte e Infrae
 
 ### 🚀 Projeto em Destaque
 
+<p align="center">
+  <img src="chronos-banner.png" alt="Chronos - Sistema de Banco de Horas" width="100%" />
+</p>
+
 **[Chronos - Sistema de Banco de Horas](https://github.com/WellMacedo/projeto-chronos)**
 > Sistema completo de gerenciamento de banco de horas corporativo desenvolvido em arquitetura Monorepo. A aplicação conta com uma **API REST robusta construída em Java com Spring Boot** no ecossistema de backend, integrada a uma interface responsiva em React. Projetado para otimizar processos internos e garantir a consistência dos dados de jornada de trabalho.
 
