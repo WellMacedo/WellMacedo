@@ -19,8 +19,8 @@ Sou estudante de Engenharia de Software e atuo como Analista de Suporte e Infrae
 
 ### 🚀 Projeto em Destaque
 
-<p align="center">
-  <<img width="1672" height="941" alt="ChatGPT Image 14 de mai  de 2026, 15_16_06" src="https://github.com/user-attachments/assets/a105e437-55cc-4abb-84b6-73b59ef76a6d" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/a105e437-55cc-4abb-84b6-73b59ef76a6d" alt="Chronos - Sistema de Banco de Horas Logo" width="400" />
 </p>
 
 **[Chronos - Sistema de Banco de Horas](https://github.com/WellMacedo/projeto-chronos)**
