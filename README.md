@@ -31,7 +31,7 @@ Sou estudante de Engenharia de Software e atuo como Analista de Suporte e Infrae
 ### 📈 Estatísticas de Dev
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WellMacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WellMacedo&show_icons=true&theme=dark&count_private=true" alt="Estatísticas do GitHub" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellMacedo&theme=dark&text_color=fff&title_color=fff" alt="Linguagens mais usadas" height="196" />
 </p>
 
